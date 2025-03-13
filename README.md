@@ -23,6 +23,6 @@ spotify with binds in python open source code
 
 7 : Redirect URIs : http://localhost:8888/callback
 
-8  : accept hen u use it for the first time 
+8  : accept the app log to ur acc when u use it for the first time 
 
 9 : enjoy it  
